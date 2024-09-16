@@ -1,3 +1,8 @@
+## Integrar Login com Certificados Digitais ICP-Brasil
+
+Para integrar seu sistema com o serviço do ITI (Instituto Nacional de Tecnologia da Informação) e validar certificados digitais emitidos no padrão ICP-Brasil, o processo envolve o uso de duas abordagens principais: consulta de listas de revogação (CRL) e validação da cadeia de certificação.
+
+Os passos são:
 
 ### 1. **Consulta à Lista de Certificados Revogados (CRL)**
 
